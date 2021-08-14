@@ -14,9 +14,7 @@ This code is based on Joe Gregorio's example and Google API Python client. Thank
 
 `task-py-admin-blogspot\Scripts\activate`
 
-`task-py-admin-blogspot\Scripts\pip.exe install`
-
-`google-api-python-client`
+`task-py-admin-blogspot\Scripts\pip.exe install google-api-python-client`
 
 ### Install Third Party Libraries and Dependencies
 
@@ -37,6 +35,12 @@ This code is based on Joe Gregorio's example and Google API Python client. Thank
 Download *client_secrets.json* file from Google Cloud Platform.
 
 ## Run
+
+In a new command line.
+
+`virtualenv task-py-admin-blogspot`
+
+`task-py-admin-blogspot\Scripts\activate`
 
 `python insert_post.py`
 
