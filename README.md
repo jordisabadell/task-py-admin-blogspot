@@ -2,6 +2,8 @@
 
 This code is based on Joe Gregorio's example and Google API Python client. Thanks :)
 
+It reads and inserts post to a Google Blogger blog.
+
 ## Install
 
 ### Google API Python client

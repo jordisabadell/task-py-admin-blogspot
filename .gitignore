@@ -133,3 +133,4 @@ dmypy.json
 client_secrets.json
 blogger.dat
 pyvenv.cfg
+*.tmp
